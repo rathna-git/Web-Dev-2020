@@ -1,0 +1,51 @@
+*{
+  text-align: right;
+}
+
+body{
+
+  background-image: url(backgroundimage.jpg);
+  background-size: cover;
+  background-color: rgba(244, 242, 253, 0.5);
+}
+
+h2, p{
+  color: #FF4C4C;
+  text-align: center;
+  border: 5px solid #39393A;
+  cursor: pointer;
+}
+p{
+  line-height: 10px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: 'Poiret One', cursive;
+  color: white;
+}
+img {
+  float: right;
+}
+footer{
+  clear: both;
+  text-align: center;
+}
+li{
+  list-style: none;
+  display: inline-block;
+}
+
+
+
+.webtext{
+  border: 2px dashed #C18181;
+  color: #39393A;
+}
+
+#div1{
+  background-color: rgba(173,173,173,0.5);
+}
+
+#div2{
+  background-color: rgba(255, 233, 76,0.5);
+}
